@@ -24,3 +24,8 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams are useful. Everything can be viewed without clutter in a simple way.
 
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+Two people can now work on different portions independently. The representation is easy 
+to understand and shows exactly how Git stores the information using pointers etc.
