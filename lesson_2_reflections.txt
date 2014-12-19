@@ -20,3 +20,7 @@ How would branches help?
 
 Branches allow the programmer to do experimental changes without any fear.
 
+How do the diagrams help you visualize the branch structure?
+
+The diagrams are useful. Everything can be viewed without clutter in a simple way.
+
