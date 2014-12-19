@@ -15,3 +15,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 Keep adding to staging area until you feel a logical change is complete.
 One logical change may require changing more than one file.
 
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+Branches allow the programmer to do experimental changes without any fear.
+
