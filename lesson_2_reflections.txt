@@ -29,3 +29,10 @@ it in the diagram the way we do?
 
 Two people can now work on different portions independently. The representation is easy 
 to understand and shows exactly how Git stores the information using pointers etc.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When changes are huge and there are no conflicts, automatic merging saves a lot of time. 
+In case of a conflict, automatic merging can lead to errors. Hence, manual merging is the 
+only way to go.
+
