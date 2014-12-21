@@ -20,3 +20,7 @@ Fork: Start a new project, from where someone left off.
 Clone: Collaborate to an existing project.
 Branch: Try a new feature experimentally.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+As we saw, git pull can now sync all the changes by first doing a fetch and then merge. If 
+no access to the local copy was there, this would not be possible.
