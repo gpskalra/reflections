@@ -9,3 +9,14 @@ Someone else might be working on a particular branch and pushing commits in it. 
 also, want to switch to that branch, so now I need to pull changes on that branch manually.
 I may also be working independently on that same branch but may now have decided that my team mate's
 approach is better. So, he may push things and I can then pull the changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork: Make a copy from someone's Github account to yours.
+clone: Make a copy at your local computer. The source can be local or remote.
+Branch: Make a new branch. Operates on a repository.
+
+Fork: Start a new project, from where someone left off.
+Clone: Collaborate to an existing project.
+Branch: Try a new feature experimentally.
+
