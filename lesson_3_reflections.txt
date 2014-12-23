@@ -24,3 +24,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 As we saw, git pull can now sync all the changes by first doing a fetch and then merge. If 
 no access to the local copy was there, this would not be possible.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By mailing changes everytime, keeping a master folder and making changes to it when all agree to the 
+change. Easier: No commands to run. Harder:Pretty much everything else, viewing changes, getting confused
+which folder to see. 
