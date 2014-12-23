@@ -30,3 +30,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 By mailing changes everytime, keeping a master folder and making changes to it when all agree to the 
 change. Easier: No commands to run. Harder:Pretty much everything else, viewing changes, getting confused
 which folder to see. 
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+When it is a simple change, you should directly change the master. If it is an experimental change, 
+you need to get approval of others, since you want the master branch on Github to be the workable branch 
+and not change it directly.
